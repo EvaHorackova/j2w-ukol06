@@ -20,6 +20,6 @@
 
 [#macro back]
     <nav>
-        <a href="/">◂ zpět na seznam</a>
+        <a href="/">◂ Zpět na seznam</a>
     </nav>
 [/#macro]
